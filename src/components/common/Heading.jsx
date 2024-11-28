@@ -7,8 +7,6 @@ const Heading = () => {
         <div>
             <Propes subHeading={"   Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde laborum reprehenderit magni vitae ipsam rerum saepe, "} blueHeading={"   Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde laborum reprehenderit magni vitae ipsam rerum saepe,"} />
         </div>
-
-
     )
 }
 
