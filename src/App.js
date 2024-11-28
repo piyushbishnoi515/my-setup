@@ -6,8 +6,8 @@ import SlickSlider from './components/SlickSlider';
 function App() {
   return (
     <>
-      {/* <Heading />
-      <SlickSlider /> */}
+      <Heading />
+      <SlickSlider />
     </>
   );
 }
